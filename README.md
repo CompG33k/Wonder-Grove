@@ -1,0 +1,2 @@
+# Wonder-Grove
+Wonder Grove is an original educational exploration game for children ages 2–8 that fosters curiosity, creativity, problem-solving, and early STEM through open-ended play. Built with an original world, characters, and gameplay designed to inspire learning without scores, timers, or game-over screens.
