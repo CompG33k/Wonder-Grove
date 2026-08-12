@@ -1,8 +1,8 @@
 ﻿## Summary
 
-## Related issue
+## Related OpenProject work package
 
-Closes #
+OP#<work-package-number-delete-template>
 
 ## Changes
 
