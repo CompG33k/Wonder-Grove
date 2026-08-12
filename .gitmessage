@@ -1,0 +1,23 @@
+OP#<WORK_PACKAGE_ID>: <Short Summary>
+
+Description
+-----------
+
+
+Acceptance Criteria
+-------------------
+
+-
+
+Testing
+-------
+
+- [ ] Unit Tests Passed
+- [ ] Manual Testing Completed
+- [ ] Sonar Quality Gate Passed
+- [ ] Code Coverage >= 80%
+
+OpenProject
+-----------
+
+Work Package:
